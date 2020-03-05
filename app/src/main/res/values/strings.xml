@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="op_type">?</string>
+    <string name="generar_numeros">GENERAR NÚMEROS</string>
+    <string name="add">+</string>
+    <string name="sust">-</string>
+    <string name="c">C</string>
+    <string name="mult">X</string>
+    <string name="div">/</string>
+    <string name="par">¿RESULTADO ES PAR?</string>
+    <string name="primo">¿RESULTADO ES PRIMO?</string>
+    <string name="resultado">RESULTADO</string>
+</resources>
